@@ -1,0 +1,11 @@
+from,to,distance_km,time_min
+Vanaz,Anand Nagar,1.6,2.5
+Anand Nagar,Ideal Colony,1.2,2.5
+Ideal Colony,Nal Stop,1.4,2.5
+Nal Stop,Garware College,1.3,2.5
+Garware College,Deccan Gymkhana,1.5,2.5
+Deccan Gymkhana,Chhatrapati Sambhaji Udyan,1.2,2.5
+Chhatrapati Sambhaji Udyan,Civil Court,1.8,2.5
+Civil Court,PMC,1.0,2.5
+PMC,Shivajinagar,1.7,2.5
+Shivajinagar,Range Hills,1.3,2.5
