@@ -62,19 +62,4 @@ This project showcases a practical application of graph algorithms and data stru
 
 ## 📸 Screenshots
 
-Here are a few glimpses of the Pune-Metro-Route-Optimization-System in action. To add your own screenshots, replace the `alt text` and `path/to/your/image.png` with your actual details.
-
-### Main Interface
-
-![Screenshot of the Main User Interface](assets/screenshots/main_interface.png)
-*Example: A clear shot of the source and destination selection dropdowns.*
-
-### Route Found Display
-
-![Screenshot of Route Found Display](assets/screenshots/route_found.png)
-*Example: Showing the output with the optimized route, distance, time, and fare.*
-
-### Error Message Example
-
-![Screenshot of Error Message](assets/screenshots/error_message.png)
-*Example: Demonstrating the warning for selecting the same source and destination.*
+<img width="1919" height="938" alt="Screenshot 2025-07-10 183049" src="https://github.com/user-attachments/assets/1c79d19a-058b-4e0f-a993-f561df4530c5" />
